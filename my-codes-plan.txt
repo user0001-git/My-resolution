@@ -9,3 +9,4 @@ My codes plan
   ^ Tipe Data (B)
 - Bootstrap5
 - Tailwind CSS
+- Make web
