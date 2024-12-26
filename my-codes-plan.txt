@@ -2,8 +2,10 @@ My codes plan
 
 - HTML
   * HTML Dasar
+    ^ Tag (B)
+    ^ Paragraf (B)
   * HTML5
-- CSS
 - Javascript
+  ^ Tipe Data (B)
 - Bootstrap5
 - Tailwind CSS
