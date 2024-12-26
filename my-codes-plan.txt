@@ -2,8 +2,7 @@ My codes plan
 
 - HTML
   * HTML Dasar
-    ^ Tag (B)
-    ^ Paragraf (B)
+    ^ Code Editor (A)
   * HTML5
 - Javascript
   ^ Tipe Data (B)
