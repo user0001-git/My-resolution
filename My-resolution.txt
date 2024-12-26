@@ -1,0 +1,14 @@
+My Resoution
+- Mempelajari Version Control System
+- Mempelajari CSS Unit
+- Mempelajari Flexbox
+- Mempelajari CSS Grid
+- Mempelajari CSS5
+- Mempelajari SASS
+- Mempelajari Webpack
+- Mempelajari Tailwindcss
+- Mempelajari Dasar Pemrograman JavaScript
+- Mempelajari JavaScript dan DOM
+- Mempelajari JavaScript Lanjutan
+- Mempelajari REST API
+- Mempelajari Panduan Web Developer
