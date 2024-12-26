@@ -6,3 +6,4 @@ My codes plan
 - CSS
 - Javascript
 - Bootstrap5
+- Tailwind CSS
