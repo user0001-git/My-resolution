@@ -1,5 +1,5 @@
 My Resoution
-- Mempelajari Version Control System
+- Mempelajari GIT & GITHUB
 - Mempelajari CSS Unit
 - Mempelajari Flexbox
 - Mempelajari CSS Grid
