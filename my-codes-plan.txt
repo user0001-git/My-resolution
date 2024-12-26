@@ -4,11 +4,8 @@ My codes plan
   * HTML Dasar
     ^ Code Editor (A)
   * HTML5
-- CSS
 - Javascript
-  ^ Tipe Data (A)
-  ^ Operator (A)
+  ^ Tipe Data (B)
 - Bootstrap5
 - Tailwind CSS
-- Flexbox
-- Make Web
+- Make web
