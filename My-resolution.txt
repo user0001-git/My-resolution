@@ -12,3 +12,4 @@ My Resoution
 - Mempelajari JavaScript Lanjutan
 - Mempelajari REST API
 - Mempelajari Panduan Web Developer
+- Mencari Lowongan kerja sebagai Front-End Developer
